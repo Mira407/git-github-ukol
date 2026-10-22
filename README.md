@@ -1,5 +1,5 @@
 # git-github-ukol
-The last of Git
+
 # Git & GitHub – tahák pro VS Code
 
 
@@ -118,7 +118,6 @@ Máš rozdělanou práci a potřebuješ přepnout větev? Source Control → `�
 | `Ctrl+Enter` | Commit (když jsi v políčku na zprávu) |
 | `Ctrl+Shift+P` | Paleta příkazů – napiš *Git:* a uvidíš všechno |
 | `Ctrl+Shift+V` | Hezký náhled Markdownu (třeba tohohle taháku) |
-| `Ctrl+K` pak `V` | Náhled Markdownu vedle textu |
 
 ---
 
