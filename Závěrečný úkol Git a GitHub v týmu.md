@@ -119,7 +119,7 @@ Větve `sifrovani`, `desifrovani` a `issue-1` už nikdo nepotřebuje. Každá ex
 
 Cíl: přispět do repozitáře, kam nemáte právo zapisovat – přesně tak se přispívá do open-source projektů. Tuto část dělá **každý sám**.
 
-Zadavatel připraví třídní repozitář (odkaz dostanete), ve kterém je složka `studenti/`.
+Zadavatel připraví třídní repozitář (odkaz dostanete na teamsy), ve kterém je složka `studenti/`.
 
 1. Udělejte **fork** třídního repozitáře do svého účtu.
 2. Svůj fork naklonujte do VS Code.

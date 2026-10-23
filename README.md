@@ -31,7 +31,7 @@
 7. **Pull request** – na GitHubu klikni na *Compare & pull request*.
 
 > [!IMPORTANT]
-> Zpráva commitu má říct **co** změna dělá: dobře `Přidat tip na film Duna`, špatně je `asdf`, `fix`, `změny`.
+> Zpráva commitu má říct **co** změna dělá: dobře `Přidat posun malých písmen`, špatně je `asdf`, `fix`, `změny`.
 
 ---
 
